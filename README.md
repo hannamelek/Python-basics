@@ -30,6 +30,15 @@ repo1/
 │── day5 - pract.ipynb/
 │── day6 - gc count6.ipynb/
 │── day6- hammendel6.ipynb/
+```
+---
+##Tools & Libraries:
+
+Python
+Jupyter Notebook
+Biopython
+Pandas
+Matplotlib
 
 ---
 ##Purpose of this repository
