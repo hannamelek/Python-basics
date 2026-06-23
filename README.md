@@ -22,7 +22,7 @@ Hamming Distance(mutation comparison), Mendel's Law(population genetics probabil
 ## Folder Structure
 
 ```bash 
-repo1/
+Python-basics/
 │── day1 - bioinfo.ipynb/
 │── day2 - bioinfo.ipynb/
 │── day3 - day3.ipynb/
