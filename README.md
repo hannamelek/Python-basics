@@ -6,18 +6,18 @@ This repository contains my personal learning notes, practice codes, and exercis
 
 ## What is this repository about
 
-I use this repository to track my learning journey step by step.  
-It includes small scripts, experiments, and practice tasks from different python basic topics.
+- I use this repository to track my learning journey step by step.  
+- It includes small scripts, experiments, and practice tasks from different python basic topics.
 
 ---
 ## Topics Covered
 
--Loops, conditionals, functions, lists, dictionaries, string 
--File reading and writing
--Matplotlib: bar charts, line plots
--Rosalind (DNA, RNA, REVC)
--GC content (sequence composition analysis
-Hamming Distance(mutation comparison), Mendel's Law(population genetics probability)
+- Loops, conditionals, functions, lists, dictionaries, string 
+- File reading and writing
+- Matplotlib: bar charts, line plots
+- Rosalind info (DNA, RNA, REVC)
+- GC content (sequence composition analysis
+- Hamming Distance(mutation comparison), Mendel's Law(population genetics probability)
 
 ## Folder Structure
 
@@ -42,15 +42,15 @@ Python-basics/
 
 ---
 ## Purpose of this repository
-To practice consistently
-To track my progress over time
-To build strong fundamentals in bioinformatics and programming
+- To practice consistently
+- To track my progress over time
+- To build strong fundamentals in bioinformatics and programming
 
 ---
 ## Progress
 
-This is the first stage of my learning journey (Day 1–7).
-More advanced topics will be added in later repositories.
+- This is the first stage of my learning journey (Day 1–7).
+- More advanced topics will be added in later repositories.
 
 ---
 ## Author
