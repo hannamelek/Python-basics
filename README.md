@@ -34,11 +34,11 @@ Python-basics/
 ---
 ## Tools & Libraries:
 
-Python
-Jupyter Notebook
-Biopython
-Pandas
-Matplotlib
+-Python
+-Jupyter Notebook
+-Biopython
+-Pandas
+-Matplotlib
 
 ---
 ## Purpose of this repository
