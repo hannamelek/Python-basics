@@ -32,24 +32,17 @@ repo1/
 │── day6- hammendel6.ipynb/
 
 ---
-
-
-# Purpose of this repository
-
+##Purpose of this repository
 To practice consistently
 To track my progress over time
 To build strong fundamentals in bioinformatics and programming
 
 ---
-
-Progress
-
+##Progress
 This is the first stage of my learning journey (Day 1–7).
 More advanced topics will be added in later repositories.
-
 ---
-
-#Author
+##Author
 
 Hanna Melek
 GitHub: https://github.com/hannamelek
