@@ -48,8 +48,10 @@ To build strong fundamentals in bioinformatics and programming
 
 ---
 ## Progress
+
 This is the first stage of my learning journey (Day 1–7).
 More advanced topics will be added in later repositories.
+
 ---
 ## Author
 
