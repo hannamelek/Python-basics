@@ -10,7 +10,7 @@ I use this repository to track my learning journey step by step.
 It includes small scripts, experiments, and practice tasks from different python basic topics.
 
 ---
-# Topics Covered
+## Topics Covered
 
 -Loops, conditionals, functions, lists, dictionaries, string 
 -File reading and writing
@@ -34,11 +34,11 @@ Python-basics/
 ---
 ## Tools & Libraries:
 
--Python
--Jupyter Notebook
--Biopython
--Pandas
--Matplotlib
+- Python
+- Jupyter Notebook
+- Biopython
+- Pandas
+- Matplotlib
 
 ---
 ## Purpose of this repository
