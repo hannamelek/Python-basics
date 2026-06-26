@@ -3,7 +3,6 @@
 This repository contains my personal learning notes, practice codes, and exercises as I explore bioinformatics and programming.
 
 ---
-
 ## What is this repository about
 
 - I use this repository to track my learning journey step by step.  
